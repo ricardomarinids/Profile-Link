@@ -74,7 +74,7 @@ body {
 }
 
 a {
-    z-index: 10;
+    
     color: black;
     background-color: gold;
     border: 1px solid rgb(0, 0, 0);
@@ -87,6 +87,6 @@ a {
     overflow: hidden;
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    z-index: 5;
+   
   
 }
