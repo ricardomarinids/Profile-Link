@@ -63,6 +63,7 @@ body {
     border-radius: 50%;
     transform: translate(-50%, -50%);
     transition: width .5s, heigth .5s;
+    z-index: 0;
     
     
 }
@@ -87,6 +88,9 @@ a {
     overflow: hidden;
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   
-  
+}
+
+span {
+    position: relative;
+    z-index: 1;
 }
