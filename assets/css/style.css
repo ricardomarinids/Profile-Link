@@ -90,7 +90,7 @@ a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-span {
+.span {
     position: relative;
     z-index: 1;
 }
